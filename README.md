@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajeshpasupureddy2002
+- 👋 Hi, I’m Pasupureddy Rajesh
 - 👀 I’m interested in coding   
 - 🌱 I’m currently Pursing Btech Cse Data Science  
 - 💞️ I’m looking to collaborate on Github 
