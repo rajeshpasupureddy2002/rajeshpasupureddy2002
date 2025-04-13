@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Pasupureddy Rajesh
-- 👀 I’m interested in coding   
-- 🌱 I’m currently Pursing Btech Cse Data Science  
-- 💞️ I’m looking to collaborate on Github 
-- Area of Interest : Data Science,Data Analytics ,Java,Python,SQL,Tableau and Power BI
-- Make the way by own. Not by others.
+- 👋 Hi, I’m Pasupureddy Rajesh, a passionate Data Science undergraduate from NSRIT, Visakhapatnam. I'm enthusiastic about solving real-world problems through data analysis, visualization, and software development. My projects span emergency response systems, emotional assessment platforms, and sports analytics using tools like Power BI, Tableau, and Python. I'm also skilled in Java, MySQL, and cloud technologies like AWS. Let's connect and collaborate on impactful tech solutions!
 - Create an Impact on your Name.
 rajeshpasupureddy2002@gmail.com
 <!---
