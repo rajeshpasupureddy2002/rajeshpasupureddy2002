@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Pasupureddy Rajesh, a passionate Data Science undergraduate from NSRIT, Visakhapatnam. I'm enthusiastic about solving real-world problems through data analysis, visualization, and software development. My projects span emergency response systems, emotional assessment platforms, and sports analytics using tools like Power BI, Tableau, and Python. I'm also skilled in Java, MySQL, and cloud technologies like AWS. Let's connect and collaborate on impactful tech solutions!
-- Create an Impact on your Name.
+Hi This is Rajesh Pasupureddy and i have completed my schooling and graduation in visakhapatnam.Throughout my academics i was strengthen my self towards my career growth and self-esteem. 
 
-  
+- Getting something from someone and throughts for your career was like building from step by step.
+- As to be Java Developer and Software Development.
+- Skills : Java, Advanced core Java, Collection frameworks, Object oriented Programming, Data Structures and Algorithms, Spring, SpringBoot, Chain forming of tools and other Frontend Technologies.
+- Data Base : MySql and MangoDB
+
+Let to be something someone can't hold.
+
 rajeshpasupureddy2002@gmail.com
 <!---
 rajeshpasupureddy2002/rajeshpasupureddy2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
